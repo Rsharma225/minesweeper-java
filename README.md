@@ -55,8 +55,8 @@ minesweeper-java/
 ```
 
 ## Game Play 
-[Game Play](screenshots/Minesweeper_1.png)
-[Game Play](screenshots/Minesweeper_2.png)
+![gameplay](screenshots/Minesweeper_1.png)
+![gameplay](screenshots/Minesweeper_2.png)
 
 Author
 Raghav Sharma
