@@ -1,4 +1,4 @@
-![Minesweeper Banner](screenshots/minesweeper.jpg)
+![Minesweeper Banner](screenshots/Minesweeper.jpg)
 
 # Minesweeper (Java)
 
