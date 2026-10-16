@@ -54,5 +54,9 @@ minesweeper-java/
 6. Hitting a mine ends the game.
 ```
 
+## Game Play 
+[](screenshots/Minesweeper1.png)
+[](screenshots/Minesweeper2.png)
+
 Author
 Raghav Sharma
