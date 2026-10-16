@@ -37,6 +37,10 @@ java -cp out SharmaRaghavA5
 
 ```
 minesweeper-java/
+├── screenshots
+│   └── Minesweeper          #Banner
+│   └── Minesweeper_1        #Gameplay1
+│   └── Minesweeper_2        #Gameplay2
 ├── src/
 │   └── SharmaRaghavA5.java   # Full game implementation
 ├── .gitignore
